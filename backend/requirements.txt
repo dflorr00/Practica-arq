@@ -1,0 +1,6 @@
+adafruit-circuitpython-dht
+flask
+pyserial
+Pillow
+dht11
+flask-cors
